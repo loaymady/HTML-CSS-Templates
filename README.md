@@ -26,6 +26,12 @@ Ideal for a travel agency, this template boasts a responsive layout with section
 
 - **Demo:** [Explore Template](https://loaymady.github.io/HTML-CSS-Template-4/)
 
+## Template#5: Dashboard Web App Template
+
+This project is a simple HTML and CSS implementation of a personal dashboard template.
+
+- **Demo:** [Explore Template](https://loaymady.github.io/HTML-CSS-Template-5/)
+
 <br>
 
 Each template includes a structured project layout with HTML files, CSS stylesheets, and an images directory for storing template-specific images.
